@@ -6,12 +6,12 @@ import { motion } from 'framer-motion';
 const items = [
     {
         title: "Your Laptop",
-        description: "Bring your laptop and charger. Any modern laptop will work - Windows, Mac, or Linux. Don't worry about software—we'll help you set up all the AI coding tools during the first session.",
+        description: "Bring your laptop and charger. Any modern laptop will work - Windows, Mac, or Linux. Don&apos;t worry about software—we&apos;ll help you set up all the AI coding tools during the first session.",
         icon: <Laptop className="w-8 h-8 text-white" />,
     },
     {
         title: "Note-Taking Tools",
-        description: "Bring a notebook and pen, or use your favorite note-taking app. We'll share lots of tips, shortcuts, and resources throughout the 2-day workshop that you'll want to remember!",
+        description: "Bring a notebook and pen, or use your favorite note-taking app. We&apos;ll share lots of tips, shortcuts, and resources throughout the 2-day workshop that you&apos;ll want to remember!",
         icon: <BookOpen className="w-8 h-8 text-white" />,
     }
 ];

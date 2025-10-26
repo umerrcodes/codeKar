@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import { Button } from '@/components/ui/button';
-import { Calendar, MapPin, Users, ArrowRight, Globe, Building, Clock } from 'lucide-react';
+import { Calendar, MapPin, Users, Building, Clock } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { motion } from 'framer-motion';
 import Image from 'next/image';
@@ -359,7 +359,7 @@ const SignUpPage = () => {
                         </div>
                     </motion.div> */}
 
-                    {/* What You'll Build Section */}
+                    {/* What You&apos;ll Build Section */}
                     {/* <motion.div 
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}

@@ -4,7 +4,6 @@ import React from "react"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import Image from "next/image"
-import CorporateInquiryDialog from "./CorporateInquiryDialog"
 
 export function Hero() {
   return (
@@ -82,7 +81,7 @@ export function Hero() {
                 ))}
               </div>
               <p className="text-white text-sm leading-relaxed">
-                "The workshop was highly insightful, well-organized, and provided valuable hands-on experience that exceeded my expectations."
+                &quot;The workshop was highly insightful, well-organized, and provided valuable hands-on experience that exceeded my expectations.&quot;
               </p>
             </div>
           </div>

@@ -39,13 +39,13 @@ export const WhyChooseUs = () => {
 
   const features = [
     {
-      title: "Who's this workshop for?",
+      title: "Who&apos;s this workshop for?",
       description: "Complete beginners who want to learn coding! Students, professionals looking to upskill, or anyone with a project idea. No coding background required—just bring your laptop and enthusiasm.",
       icon: arrowIcon,
     },
     {
       title: "Do I need to know how to code?",
-      description: "Not at all! We start from scratch. You'll learn to code using AI tools as your assistant. Our 2-day hands-on approach gets you building immediately, no boring theory.",
+      description: "Not at all! We start from scratch. You&apos;ll learn to code using AI tools as your assistant. Our 2-day hands-on approach gets you building immediately, no boring theory.",
       icon: arrowIcon,
     },
     {
@@ -60,12 +60,12 @@ export const WhyChooseUs = () => {
     },
     {
       title: "What tools are we using?",
-      description: "Modern, beginner-friendly tools: v0 + Cursor for AI-assisted coding, Next.js + Supabase for building real apps. We'll help you set everything up—don't worry about the technical setup.",
+      description: "Modern, beginner-friendly tools: v0 + Cursor for AI-assisted coding, Next.js + Supabase for building real apps. We&apos;ll help you set everything up—don&apos;t worry about the technical setup.",
       icon: arrowIcon,
     },
     {
       title: "What if I get stuck?",
-      description: "Our instructors are there with you throughout the 2 days! We provide hands-on support, debug together, and make sure everyone succeeds. Plus, you'll join our community for continued support after the workshop.",
+      description: "Our instructors are there with you throughout the 2 days! We provide hands-on support, debug together, and make sure everyone succeeds. Plus, you&apos;ll join our community for continued support after the workshop.",
       icon: arrowIcon,
     },
   ];

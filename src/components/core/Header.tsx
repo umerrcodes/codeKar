@@ -30,12 +30,12 @@ const navItems: NavItem[] = [
     children: [],
   },
   {
-    title: "What you'll learn",
+    title: "What you&apos;ll learn",
     href: "/#whatWeDo",
     children: [],
   },
   {
-    title: "What you'll need",
+    title: "What you&apos;ll need",
     href: "/#whatYouNeed",
     children: [],
   },
@@ -67,7 +67,7 @@ export function Navbar() {
   }, [])
 
   // Custom style for nav text: bold, dark white (almost white, but not pure white)
-  // We'll use fontWeight: 700 and color: #f5f5f5 (a dark white)
+  // We&apos;ll use fontWeight: 700 and color: #f5f5f5 (a dark white)
   const navTextStyle: React.CSSProperties = {
     color: "#f5f5f5",
     fontWeight: 700,

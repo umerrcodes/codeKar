@@ -8,20 +8,20 @@ const learnItems = [
   {
     title: "Beginner-Friendly AI Coding",
     description:
-      "Start from zero. We teach you how to code using AI tools like Cursor and v0. No prior experience needed—just bring your curiosity. You'll learn by doing, building real features from day one with AI as your guide.",
-    imageSrc: "/assets/images/nayadev-1.jpeg",
+      "Start from zero. We teach you how to code using AI tools like Cursor and v0. No prior experience needed—just bring your curiosity. You&apos;ll learn by doing, building real features from day one with AI as your guide.",
+    imageSrc: "https://placehold.co/800x700/1a1a1a/ffffff?text=AI+Coding",
   },
   {
     title: "Build Real Apps & Websites",
     description:
-      "Create working applications using modern tools like Next.js and Supabase. By the end of our 2-day workshop, you'll have a live, functional app or website—perfect for personal projects, school assignments, or your portfolio.",
-    imageSrc: "/assets/images/nayadev-2.jpeg",
+      "Create working applications using modern tools like Next.js and Supabase. By the end of our 2-day workshop, you&apos;ll have a live, functional app or website—perfect for personal projects, school assignments, or your portfolio.",
+    imageSrc: "https://placehold.co/800x700/1a1a1a/ffffff?text=Build+Apps",
   },
   {
     title: "Ready for Your Next Step",
     description:
-      "Whether you're building for fun, school, or preparing to enter the job market, we equip you with practical skills. Leave with confidence to tackle your own projects and continue your coding journey independently.",
-    imageSrc: "/assets/images/nayadev-4.jpeg",
+      "Whether you&apos;re building for fun, school, or preparing to enter the job market, we equip you with practical skills. Leave with confidence to tackle your own projects and continue your coding journey independently.",
+    imageSrc: "https://placehold.co/800x700/1a1a1a/ffffff?text=Next+Step",
   },
 ];
 
