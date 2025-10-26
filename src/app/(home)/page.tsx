@@ -4,7 +4,7 @@ import { WhyChooseUs } from '@/components/home/WhyChooseUs';
 import { About } from '@/components/home/About';
 import { ProcessSection } from '@/components/home/ProcessSection';
 import { WhatYouNeed } from '@/components/home/WhatYouNeed';
-import { TestimonialsMarquee } from '@/components/home/TestimonialsMarquee';
+// import { TestimonialsMarquee } from '@/components/home/TestimonialsMarquee';
 import { CorporateSection } from '@/components/home/CorporateSection';
 
 export default function Home() {
@@ -12,7 +12,7 @@ export default function Home() {
     <main>
       <Hero />
       <About />
-      <TestimonialsMarquee />
+      {/* <TestimonialsMarquee /> */}
       <WhatWeDo />
       <WhatYouNeed />
       <WhyChooseUs />

@@ -16,12 +16,12 @@ const SignUpPage = () => {
     const cohorts = [
         {
             title: "2-Day Beginner Workshop",
-            date: "December 7 & 8",
-            time: "10:00 AM to 6:00 PM",
+            date: "November 1 & 2",
+            time: "2:00 PM to 6:00 PM",
             type: "In-Person" as const,
             location: "Karachi, Pakistan",
             pricing: {
-                in_person: 15000,
+                in_person: 5000,
             },
             description: [
                 "A beginner-friendly, hands-on 2-day experience",
@@ -38,10 +38,10 @@ const SignUpPage = () => {
     ];
 
     const carouselImages = [
-        "https://placehold.co/800x700/1a1a1a/ffffff?text=Workshop+1",
-        "https://placehold.co/800x700/1a1a1a/ffffff?text=Workshop+2",
-        "https://placehold.co/800x700/1a1a1a/ffffff?text=Workshop+3",
-        "https://placehold.co/800x700/1a1a1a/ffffff?text=Workshop+4",
+        "/assets/images/new-img.png",
+        "/assets/images/new-img-2.jpeg",
+        "/assets/images/new-img-3.jpeg",
+        "/assets/images/new-img-4.jpeg",
     ];
 
     const handleSignUpClick = async (cohortDate: string, price: number, type: string) => {
