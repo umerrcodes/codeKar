@@ -1,11 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 
-// Define types for custom fields
-interface CustomField {
-  key: string;
-  text?: { value: string };
-  dropdown?: { value: string };
-}
+// No-op placeholder; Stripe disabled
 
 // Stripe fully disabled. Keep endpoint to avoid 404s in Stripe dashboard
 export async function POST(_req: NextRequest) {
