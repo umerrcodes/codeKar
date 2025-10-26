@@ -39,8 +39,8 @@ export const WhatWeDo = () => {
     <section id="whatWeDo" className="w-full bg-white text-black py-24 md:py-32">
       <div className="container mx-auto px-4 max-w-7xl">
         <div className="text-center mb-16 max-w-3xl mx-auto">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4">What You'll Learn</h2>
-          <p className="text-lg text-gray-600">A weekend of hands-on building. Here's the path we follow.</p>
+          <h2 className="text-4xl md:text-5xl font-bold mb-4">What You’ll Learn</h2>
+          <p className="text-lg text-gray-600">A weekend of hands-on building. Here’s the path we follow.</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10 items-start">

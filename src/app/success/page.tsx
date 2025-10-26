@@ -11,7 +11,7 @@ export default function SuccessPage() {
                     Payment Successful!
                 </h1>
                 <p className="text-lg text-gray-400 mb-8">
-                    Thank you for your registration. Your spot is confirmed! We've sent a confirmation email with all the details.
+                    Thank you for your registration. Your spot is confirmed! We’ve sent a confirmation email with all the details.
                 </p>
                 <Link href="/">
                     <Button>

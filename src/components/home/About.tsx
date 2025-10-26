@@ -28,11 +28,11 @@ export const About = () => {
           {/* Right Column - Text Content */}
           <div className="space-y-6 lg:pt-16">
             <p className="text-lg md:text-xl text-gray-800 leading-relaxed">
-              Our 2-day workshop in Karachi is designed for complete beginners. No coding experience needed. We teach you how to use AI as your coding assistant to build real, working apps and websites. Whether it's for a personal project, school assignment, or to start your journey into tech careers—we'll help you get there.
+              Our 2-day workshop in Karachi is designed for complete beginners. No coding experience needed. We teach you how to use AI as your coding assistant to build real, working apps and websites. Whether it’s for a personal project, school assignment, or to start your journey into tech careers—we’ll help you get there.
             </p>
             
             <p className="text-lg md:text-xl text-gray-800 leading-relaxed">
-              By the end of the workshop, you'll have a live app you can show off and the confidence to keep building. Plus, you'll join our community for continued learning and networking.
+              By the end of the workshop, you’ll have a live app you can show off and the confidence to keep building. Plus, you’ll join our community for continued learning and networking.
             </p>
           </div>
         </div>
