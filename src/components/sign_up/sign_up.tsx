@@ -359,7 +359,7 @@ const SignUpPage = () => {
                         </div>
                     </motion.div> */}
 
-                    {/* What You&apos;ll Build Section */}
+                    {/* What You'll Build Section */}
                     {/* <motion.div 
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
@@ -368,7 +368,7 @@ const SignUpPage = () => {
                     >
                         <div className="text-center mb-12">
                              <h2 className="text-3xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#a3e635] to-[#fafafa]">
-                                What You&apos;ll Build
+                                What You'll Build
                              </h2>
                         </div>
                         <div className="grid md:grid-cols-3 gap-8">

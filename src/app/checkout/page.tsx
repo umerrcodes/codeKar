@@ -77,7 +77,7 @@ function CheckoutForm() {
             </div>
             <h2 className="text-3xl font-bold mb-4 text-white">Registration Request Sent!</h2>
             <p className="text-white/70 mb-8 text-lg leading-relaxed">
-              Thank you for your interest! We&apos;ve received your registration request. After we receive your payment, you will receive an Email with more information.
+              Thank you for your interest! We've received your registration request. After we receive your payment, you will receive an Email with more information.
             </p>
             <Button
               onClick={() => router.push('/')}

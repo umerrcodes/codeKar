@@ -8,19 +8,19 @@ const learnItems = [
   {
     title: "Beginner-Friendly AI Coding",
     description:
-      "Start from zero. We teach you how to code using AI tools like Cursor and v0. No prior experience needed—just bring your curiosity. You&apos;ll learn by doing, building real features from day one with AI as your guide.",
+      "Start from zero. We teach you how to code using AI tools like Cursor and v0. No prior experience needed—just bring your curiosity. You'll learn by doing, building real features from day one with AI as your guide.",
     imageSrc: "https://placehold.co/800x700/1a1a1a/ffffff?text=AI+Coding",
   },
   {
     title: "Build Real Apps & Websites",
     description:
-      "Create working applications using modern tools like Next.js and Supabase. By the end of our 2-day workshop, you&apos;ll have a live, functional app or website—perfect for personal projects, school assignments, or your portfolio.",
+      "Create working applications using modern tools like Next.js and Supabase. By the end of our 2-day workshop, you'll have a live, functional app or website—perfect for personal projects, school assignments, or your portfolio.",
     imageSrc: "https://placehold.co/800x700/1a1a1a/ffffff?text=Build+Apps",
   },
   {
     title: "Ready for Your Next Step",
     description:
-      "Whether you&apos;re building for fun, school, or preparing to enter the job market, we equip you with practical skills. Leave with confidence to tackle your own projects and continue your coding journey independently.",
+      "Whether you're building for fun, school, or preparing to enter the job market, we equip you with practical skills. Leave with confidence to tackle your own projects and continue your coding journey independently.",
     imageSrc: "https://placehold.co/800x700/1a1a1a/ffffff?text=Next+Step",
   },
 ];
@@ -39,8 +39,8 @@ export const WhatWeDo = () => {
     <section id="whatWeDo" className="w-full bg-white text-black py-24 md:py-32">
       <div className="container mx-auto px-4 max-w-7xl">
         <div className="text-center mb-16 max-w-3xl mx-auto">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4">What You&apos;ll Learn</h2>
-          <p className="text-lg text-gray-600">A weekend of hands-on building. Here&apos;s the path we follow.</p>
+          <h2 className="text-4xl md:text-5xl font-bold mb-4">What You'll Learn</h2>
+          <p className="text-lg text-gray-600">A weekend of hands-on building. Here's the path we follow.</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10 items-start">
