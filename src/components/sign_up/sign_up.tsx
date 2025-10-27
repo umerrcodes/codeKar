@@ -16,7 +16,7 @@ const SignUpPage = () => {
     const cohorts = [
         {
             title: "2-Day Beginner Workshop",
-            date: "November 1 & 2",
+            date: "November 8 & 9",
             time: "2:00 PM to 6:00 PM",
             type: "In-Person" as const,
             location: "Karachi, Pakistan",
